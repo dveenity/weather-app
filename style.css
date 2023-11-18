@@ -18,7 +18,7 @@ body {
   display: flex;
   flex-flow: column;
   align-items: center;
-  height: 85vh;
+  height: 80vh;
   width: 95vw;
   border-radius: 1rem;
   padding: 3rem 0;
